@@ -6,7 +6,6 @@ This project analyzes an e-commerce dataset to identify key insights such as pro
 2. Install the required packages via Jupyter Notebook:
    - pandas
    - matplotlib
-   - seaborn
 3. Load the dataset into a Pandas DataFrame using `pd.read_csv()`.
 
 ### Usage
